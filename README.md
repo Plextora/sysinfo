@@ -1,5 +1,12 @@
 # sysinfo
 
-A .exe file made in BatchFile that takes system info like your BIOS version and put's it into a .csv file
+A script that takes system information such as your Windows Version or Linux Kernel and puts it in a .csv file!
+
+# Windows:
 
 # [![Header](https://i.imgur.com/PIOsbPq.png)](https://i.imgur.com/PIOsbPq.png)
+
+# Linux:
+
+# [![Header](https://i.imgur.com/FjBakTc.gif)](https://github.com/Plextora/sysinfo/releases/tag/v1.0)
+
