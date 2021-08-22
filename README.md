@@ -4,7 +4,7 @@ A script that takes system information such as your Windows Version or Linux Ker
 
 # Windows:
 
-# [![Header](https://i.imgur.com/PIOsbPq.png)](https://i.imgur.com/PIOsbPq.png)
+# [![Header](https://i.imgur.com/PIOsbPq.png)](https://github.com/Plextora/sysinfo/releases/tag/v1.0)
 
 # Linux:
 
